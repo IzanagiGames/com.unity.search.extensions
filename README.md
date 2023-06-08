@@ -1,5 +1,7 @@
 # Search Extensions
 
+*MODIFIED FOR UNITY2022.3 OR HIGHER*
+
 This package contains a bunch of tools, examples, samples and queries to be used with Unity Search.
 
 The Search Extensions package will work with Unity 2020.3 and any other versions higher than 2021.2.
